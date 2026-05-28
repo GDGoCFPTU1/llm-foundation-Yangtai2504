@@ -1,0 +1,4 @@
+- Họ và Tên: Nguyễn Thái Dương
+- Email cá nhân đăng ký chương trình: ntduong.hatinh@gmail.com
+- GitHub Username: Yangtai2504
+- Discord Username: duongt1k291652
